@@ -15,7 +15,7 @@ export const Hero = () => {
         <h3 className={styles.contactTitle}>Contact</h3>
         <div className={styles.contact}>
           <a
-            href="mailto:mugammadhuoff@gmail.com"
+            href="mailto:mugammadhu.sate@gmail.com"
             className={styles.contactEmailBtn}
           >
             Email

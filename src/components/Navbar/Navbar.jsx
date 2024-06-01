@@ -10,8 +10,7 @@ export const Navbar = () => {
         <a href="/" className={styles.title}>
           Portfolio
         </a>
-        <a href='
-                https://publuu.com/flip-book/468212/1055520' target="_blank" className={styles.resume}>Resume</a>
+        <a href='https://drive.google.com/file/d/1vp7vqLgXMzL8IVWtGWP5WrsXfyGLO1rN/view?usp=sharing' target="_blank" className={styles.resume}>Resume</a>
         <div className={styles.menu}>
           <img
             className={styles.menuBtn}
