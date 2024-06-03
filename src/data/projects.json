@@ -3,8 +3,8 @@
     "title": "IPL Website",
     "imageSrc": "projects/IPL.png",
     "description": "This website was  developed  as part of my internship at ShadowFox using FrontEnd Concepts.",
-    "skills": ["HTML", "CSS", "JS", "REACT","BOOTSTRAP"],
-    "demo": "https://iplclub.netlify.app/",
+    "skills": ["HTML", "CSS", "JS", "REACT", "BOOTSTRAP"],
+    "demo": "https://iplfanclub.netlify.app/",
     "source": "https://github.com/Mugammadhu/Shadowfox_ipl"
   },
   {
