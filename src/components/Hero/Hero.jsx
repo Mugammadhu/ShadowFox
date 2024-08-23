@@ -3,7 +3,7 @@
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils.js";
 
-export const Hero = () => {
+const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
@@ -35,3 +35,4 @@ export const Hero = () => {
     </section>
   );
 };
+export default Hero;
